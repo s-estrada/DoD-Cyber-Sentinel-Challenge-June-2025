@@ -21,7 +21,7 @@ This competition was an exceptional "pressure test" of my skills across web secu
 | [Field Reports Mayhem](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Very Easy | [s-estrada](https://github.com/t-z-scott)
 | [None Shall Pass](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Medium | [s-estrada](https://github.com/t-z-scott)
 | [Great Juche Jaguar GraphQL Heist](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Hard | [s-estrada](https://github.com/t-z-scott)
-| [Iron Potato Delicacy](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Cryptography | Hard | [s-estrada](https://github.com/t-z-scott)
+| [Iron Potato Delicacy](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Hard | [s-estrada](https://github.com/t-z-scott)
 
 ## Forensics Challenges
 | Title | Difficulty | Author |
