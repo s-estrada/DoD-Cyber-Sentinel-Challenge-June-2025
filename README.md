@@ -67,3 +67,5 @@ This competition was an exceptional "pressure test" of my skills across web secu
 | Flag Submission Practice Flag |This warm-up challenge was designed to verify the correct format and functionality of the flag submission system.|
 |  Slack Onboarding Flag |This flag, hidden in Slack onboarding messages, emphasizes the critical importance of attention to detail across all communication platforms.|
 | Post-Competition Survey Flag | This flag was awarded upon completion of the post-competition survey, serving as an incentive to encourage valuable feedback from participants.|
+
+![Screenshot 2025-06-17 at 12 24 47 AM](https://github.com/user-attachments/assets/3e27d151-dec4-4110-b004-989dd64d5fba)
