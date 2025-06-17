@@ -17,49 +17,51 @@ This competition was an exceptional "pressure test" of my skills across web secu
 ## Web Security Challenges
 | Title | Difficulty | Author |
 | :---: | :---: | :---: |
-| [Secret.txt Society](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Secret.txt-Society.md) | Very Easy | [s-estrada](https://github.com/t-z-scott)
-| [Field Reports Mayhem](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Very Easy | [s-estrada](https://github.com/t-z-scott)
-| [None Shall Pass](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Medium | [s-estrada](https://github.com/t-z-scott)
-| [Great Juche Jaguar GraphQL Heist](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Hard | [s-estrada](https://github.com/t-z-scott)
-| [Iron Potato Delicacy](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Hard | [s-estrada](https://github.com/t-z-scott)
+| [Secret.txt Society](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Secret.txt-Society.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
+| [Field Reports Mayhem](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
+| [None Shall Pass](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/None-Shall-Pass.md) | Medium | [s-estrada](https://github.com/s-estrada)
+| [Great Juche Jaguar GraphQL Heist](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Great-Juche-Jaguar-GraphQL-Heist.md) | Hard | [s-estrada](https://github.com/s-estrada)
+
+## Cryptography Challenge
+| Title | Difficulty | Author |
+| [Iron Potato Delicacy](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Cryptography/Iron-Potato-Delicacy.md) | Hard | [s-estrada](https://github.com/s-estrada)
 
 ## Forensics Challenges
 | Title | Difficulty | Author |
 | :---: | :---: | :---: |
-| [Behind the Beat](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Very Easy | [s-estrada](https://github.com/t-z-scott)
-| [Hidden in Plain Sight](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Very Easy | [s-estrada](https://github.com/t-z-scott)
-| [Listening Post](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Easy | [s-estrada](https://github.com/t-z-scott)
-| [Remote Help](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Medium | [s-estrada](https://github.com/t-z-scott)
-| [Decryption Conniption](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Hard | [s-estrada](https://github.com/t-z-scott)
+| [Behind the Beat](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
+| [Hidden in Plain Sight](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Hidden-in-Plain-Sight.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
+| [Listening Post](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Listening-Post.md) | Easy | [s-estrada](https://github.com/s-estrada)
+| [Remote Help](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Remote-Help.md) | Medium | [s-estrada](https://github.com/s-estrada)
+| [Decryption Conniption](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Decryption-Conniption.md) | Hard | [s-estrada](https://github.com/s-estrada)
 
 ## OSINT Challenges
 | Title | Difficulty | Author |
 | :---: | :---: | :---: |
-| [Cafe Confidential](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Very Easy | [s-estrada](https://github.com/t-z-scott)
-| [Problem in North TORbia](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Easy | [s-estrada](https://github.com/t-z-scott)
-| [Inspo](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Medium | [s-estrada](https://github.com/t-z-scott)
+| [Cafe Confidential](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/OSINT/Cafe-Confidential.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
+| [Problem in North TORbia](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/OSINT/Problems-in-North-TORbia.md) | Easy | [s-estrada](https://github.com/s-estrada)
+| [Inspo](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/OSINT/Inspo.md) | Medium | [s-estrada](https://github.com/s-estrada)
 
 ## Malware/Reverse Engineering Challenges
 | Title | Difficulty | Author |
 | :---: | :---: | :---: |
-| [Hardcoded Lies](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Very Easy | [s-estrada](https://github.com/t-z-scott)
-| [Encoded Evidence](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Very Easy | [s-estrada](https://github.com/t-z-scott)
-
+| [Hardcoded Lies](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Malware-Reverse%20Engineering/Hardcoded-Lies.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
+| [Encoded Evidence](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Malware-Reverse%20Engineering/Encoded-Evidence.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
 
 ## Networking Challenges
 | Title | Difficulty | Author |
 | :---: | :---: | :---: |
-| [Packet Whisperer](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Very Easy | [s-estrada](https://github.com/t-z-scott)
-| [overSSHaring](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Medium | [s-estrada](https://github.com/t-z-scott)
+| [Packet Whisperer](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Networking/Packet-Whisperer.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
+| [overSSHaring](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Networking/OverSSHaring.md) | Medium | [s-estrada](https://github.com/s-estrada)
 
 ## Reconnaisance Challenges
 | Title | Difficulty | Author |
 | :---: | :---: | :---: |
-| [Hoasted Toasted](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Easy | [s-estrada](https://github.com/t-z-scott)
-| [Screaming Streamin](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Medium | [s-estrada](https://github.com/t-z-scott)
+| [Hoasted Toasted](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Reconnaisance/Hoasted-Toasted.md) | Easy | [s-estrada](https://github.com/s-estrada)
+| [Screaming Streamin](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Reconnaisance/Screamin-Streamin.md) | Medium | [s-estrada](https://github.com/s-estrada)
 
 
-## Bonus Flags & Excluded Challenges
+## Bonus Flags
 | Title | Description |
 | :---: | :---: |
 | Flag Submission Practice Flag |This warm-up challenge was designed to verify the correct format and functionality of the flag submission system.|
