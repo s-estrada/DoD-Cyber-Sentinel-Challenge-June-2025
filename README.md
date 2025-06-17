@@ -14,6 +14,7 @@ My journey through the CTF was a rollercoaster of discovery and intense focus. I
 Ultimately, I conquered 20 out of the 22 challenges, racking up a final score of 2,175 points. This landed me an impressive 26th place out of a massive 2,149 competitors! Honestly, for my first CTF, placing within the top 2% globally feels pretty fantastic.
 
 This competition was an exceptional "pressure test" of my skills across web security, encryption analysis, threat hunting, and memory dump analysis. It provided a direct, hands-on opportunity to apply theoretical knowledge to real-world scenarios, perfectly mirroring the types of challenges faced by the DoD. I am incredibly grateful for the opportunity to have been selected for this amazing challenge by Correlation One and the U.S. Department of Defense. It wasn't just about the competition; it was about connecting with sharp minds in the field and exploring exciting career pathways in national-level missions. I'm already buzzing with excitement to continue learning and eagerly anticipate the next challenge!
+
 ## Web Security Challenges
 | Title | Difficulty | Author |
 | :---: | :---: | :---: |
@@ -24,6 +25,7 @@ This competition was an exceptional "pressure test" of my skills across web secu
 
 ## Cryptography Challenge
 | Title | Difficulty | Author |
+| :---: | :---: | :---: |
 | [Iron Potato Delicacy](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Cryptography/Iron-Potato-Delicacy.md) | Hard | [s-estrada](https://github.com/s-estrada)
 
 ## Forensics Challenges
