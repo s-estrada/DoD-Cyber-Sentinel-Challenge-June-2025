@@ -5,6 +5,7 @@ _Description:_ Our team suspects that a Juche Jaguar developer accidentally left
 # Tools Used
 curl: A command-line tool used for transferring data with URLs, essential for fetching web content and inspecting page sources.
 
+
 # Methodology
 1. Examine robots.txt for Disallowed Paths: My first step was to check the robots.txt file, a common initial point for web crawlers, for any hidden directories. I used the command 'curl https://juche.msoidentity.com/robots.txt' to retrieve its contents. The output revealed a Disallow: /juchejaguar/ entry.
 2. Attempt to Access the Disallowed Directory: I then attempted to access the /juchejaguar/ path directly using the command 'curl https://juche.msoidentity.com/juchejaguar', which resulted in a 301 Moved Permanently response, indicating that the content had been relocated and that curl needed to be instructed to follow the redirect.
@@ -26,7 +27,7 @@ curl: A command-line tool used for transferring data with URLs, essential for fe
 
 # Alternative Approach
 1. If you don't already have one, create a wordlist with common website suffices. Some examples include `/index.txt`, `/robots.txt`, and `/secret[s].txt`.
-2. Download a website fuzzer. I'm using [Gobuster](https://github.com/OJ/gobuster), a powerful enumeration and fuzzing tool written in Go.
+2. Download a website fuzzer. Alternatively, I also used [Gobuster](https://github.com/OJ/gobuster), a powerful enumeration and fuzzing tool written in Go.
 3. Go to your terminal and run this command: `gobuster dir -u https://juche.msoidentity.com -w common.txt` (or the equivalent command for your chosen website fuzzer).
    - This command runs Gobuster in directory/enumeration mode on the provided URL using the wordlist `common.txt`.
 4. Gobuster should return `/robots.txt`.
