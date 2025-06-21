@@ -19,13 +19,13 @@ This competition was an exceptional "pressure test" of my skills across web secu
 | [Great Juche Jaguar GraphQL Heist](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Great-Juche-Jaguar-GraphQL-Heist.md) | Hard | [s-estrada](https://github.com/s-estrada)
 
 ## Cryptography Challenge
-| Title | Difficulty | Author |
-| :---: | :---: | :---: |
+| Title | Difficulty | Tools Used | Author |
+| :---: | :---: | :---: | :---: |
 | [Iron Potato Delicacy](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Cryptography/Iron-Potato-Delicacy.md) | Hard | [s-estrada](https://github.com/s-estrada)
 
 ## Forensics Challenges
-| Title | Difficulty | Author |
-| :---: | :---: | :---: |
+| Title | Difficulty | Tools Used | Author |
+| :---: | :---: | :---: | :---: |
 | [Behind the Beat](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Very Easy | ExifTool | [s-estrada](https://github.com/s-estrada)
 | [Hidden in Plain Sight](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Hidden-in-Plain-Sight.md) | Very Easy | ExifTool | [s-estrada](https://github.com/s-estrada)
 | [Listening Post](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Listening-Post.md) | Easy | [s-estrada](https://github.com/s-estrada)
@@ -33,27 +33,27 @@ This competition was an exceptional "pressure test" of my skills across web secu
 | [Decryption Conniption](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Decryption-Conniption.md) | Hard | [s-estrada](https://github.com/s-estrada)
 
 ## OSINT Challenges
-| Title | Difficulty | Author |
-| :---: | :---: | :---: |
+| Title | Difficulty | Tools Used | Author |
+| :---: | :---: | :---: | :---: |
 | [Cafe Confidential](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/OSINT/Cafe-Confidential.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
 | [Problem in North TORbia](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/OSINT/Problems-in-North-TORbia.md) | Easy | [s-estrada](https://github.com/s-estrada)
 | [Inspo](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/OSINT/Inspo.md) | Medium | [s-estrada](https://github.com/s-estrada)
 
 ## Malware/Reverse Engineering Challenges
-| Title | Difficulty | Author |
-| :---: | :---: | :---: |
+| Title | Difficulty | Tools Used | Author |
+| :---: | :---: | :---: | :---: |
 | [Hardcoded Lies](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Malware-Reverse%20Engineering/Hardcoded-Lies.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
 | [Encoded Evidence](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Malware-Reverse%20Engineering/Encoded-Evidence.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
 
 ## Networking Challenges
-| Title | Difficulty | Author |
-| :---: | :---: | :---: |
+| Title | Difficulty | Tools Used | Author |
+| :---: | :---: | :---: | :---: |
 | [Packet Whisperer](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Networking/Packet-Whisperer.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
 | [overSSHaring](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Networking/OverSSHaring.md) | Medium | [s-estrada](https://github.com/s-estrada)
 
 ## Reconnaisance Challenges
-| Title | Difficulty | Author |
-| :---: | :---: | :---: |
+| Title | Difficulty | Tools Used | Author |
+| :---: | :---: | :---: | :---: |
 | [Hoasted Toasted](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Reconnaisance/Hoasted-Toasted.md) | Easy | [s-estrada](https://github.com/s-estrada)
 | [Screaming Streamin](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Reconnaisance/Screamin-Streamin.md) | Medium | [s-estrada](https://github.com/s-estrada)
 
