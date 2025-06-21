@@ -13,3 +13,5 @@ Description: Analysts recovered a suspicious image from a threat actor’s socia
 > **Flag:** C1{smile_youre_flagged}
 
 <img src="https://github.com/user-attachments/assets/a6a0b937-41a4-4f8d-88f3-d83e21b970cd" width="50%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/30689661-349b-4ec2-8644-aa3a577afeb2" width="50%" height="50%">
