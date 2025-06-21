@@ -6,9 +6,9 @@ _Description:_ Our team suspects that a Juche Jaguar developer accidentally left
 curl: A command-line tool used for transferring data with URLs, essential for fetching web content and inspecting page sources.
 
 # Methodology
-1. Using curl, I first examined the contents of https://juche.msoidentity.com/robots.txt to identify any disallowed paths. The robots.txt file showed a Disallow: /juchejaguar/ entry, with a suspicious comment hinting at hidden content.
-2. Access the Disallowed Path: I attempted to access https://juche.msoidentity.com/juchejaguar directly with curl. This resulted in a 301 Moved Permanently response, indicating a redirect.
-3. Follow the Redirect to Find the Flag: I re-ran the curl command, this time instructing it to follow redirects. This action revealed the HTML source code of the "Juche Jaguar Secret Lair" page. Within the <body> section of the HTML, the flag was clearly visible inside a div element with the class "Flag."
+1. Examine robots.txt for Disallowed Paths: My first step was to check the robots.txt file, a common initial point for web crawlers, for any hidden directories. I used the command curl https://juche.msoidentity.com/robots.txt to retrieve its contents. The output revealed a Disallow: /juchejaguar/ entry, accompanied by a comment suggesting "Absolutely nothing valuable in here. Promise." – a strong hint in a CTF context.
+2. Attempt to Access the Disallowed Directory: Following the hint from robots.txt, I then tried to access the /juchejaguar/ path directly using the command curl https://juche.msoidentity.com/juchejaguar. This initial attempt resulted in a 301 Moved Permanently response, indicating that the content had been relocated and curl needed to be told to follow the redirect.
+3. Follow the Redirect to Uncover the Flag: To successfully reach the final content, I re-executed the curl command, this time including the -L option to automatically follow redirects: curl -L https://juche.msoidentity.com/juchejaguar. This action successfully retrieved the complete HTML source code of the "Juche Jaguar Secret Lair" page. Upon reviewing the HTML, I located the flag clearly embedded within a div element with the class "Flag" in the <body> section.
 
 
 ![Screenshot 2025-06-21 at 10 50 23 AM](https://github.com/user-attachments/assets/100b00a9-f5a6-4f27-b6be-0e9f0262860b)
