@@ -5,7 +5,7 @@ Description: Agents intercepted an audio file named message.mp3. It plays a sing
 # Completion Steps
 1. Download the file.
 2. Download a file analyzer. I'm using [Exiftool](https://exiftool.org/), a quick and easy-to-use command-line tool for reading file metadata.
-3. Go to your terminal and run this command: `exiftool message.mp3` (or the equivalent command for your file analyzer). I ran 'exiftool home/[user]/Downloads/message.mp3' so it can locate my file easier.
+3. Go to your terminal and run this command: `exiftool message.mp3` (or the equivalent command for your file analyzer). I ran 'exiftool /home/[user]/Downloads/message.mp3' so it can locate my file easier.
    - Tip: To find the flag faster, use `grep` to search the results for the flag. `exiftool message.mp3 | grep C1{` would run the results of the first command through the second and output only the flag.
 
 Flag: C1{metadata_tells_more}
