@@ -1,6 +1,6 @@
 **Difficulty: Very Easy**
 
-_Description:_ Our team suspects that a Juche Jaguar developer accidentally left something interesting behind on a [public site](https://juche.msoidentity.com). You’ve been tasked with examining its structure. Can you uncover what the bots were told to ignore? Start with the usual entry points a crawler might explore. One disallowed path leads to a page where someone left behind more than just code.
+_Description:_ Our team suspects that a Juche Jaguar developer accidentally left something interesting behind on a public site: [https://juche.msoidentity.com]. You’ve been tasked with examining its structure. Can you uncover what the bots were told to ignore? Start with the usual entry points a crawler might explore. One disallowed path leads to a page where someone left behind more than just code.
 
 # Tools Used
 curl: A command-line tool used for transferring data with URLs, essential for fetching web content and inspecting page sources.
