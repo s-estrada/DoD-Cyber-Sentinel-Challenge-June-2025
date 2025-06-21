@@ -42,7 +42,7 @@ This competition was an exceptional "pressure test" of my skills across web secu
 ## Malware/Reverse Engineering Challenges
 | Title | Difficulty | Tools Used | Author |
 | :---: | :---: | :---: | :---: |
-| [Hardcoded Lies](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Malware-Reverse%20Engineering/Hardcoded-Lies.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
+| [Hardcoded Lies](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Malware-Reverse%20Engineering/Hardcoded-Lies.md) | Very Easy | strings | [s-estrada](https://github.com/s-estrada)
 | [Encoded Evidence](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Malware-Reverse%20Engineering/Encoded-Evidence.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
 
 ## Networking Challenges
