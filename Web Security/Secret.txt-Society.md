@@ -12,7 +12,8 @@ curl: A command-line tool used for transferring data with URLs, essential for fe
 
 
 ![Screenshot 2025-06-21 at 10 50 23 AM](https://github.com/user-attachments/assets/100b00a9-f5a6-4f27-b6be-0e9f0262860b)
-![Screenshot 2025-06-21 at 10 51 28 AM](https://github.com/user-attachments/assets/ad41eed3-f1b7-43f3-b933-749202f8084c)
+![Screenshot 2025-06-21 at 11 09 04 AM](https://github.com/user-attachments/assets/f983625c-d938-4532-972b-8531495505e3)
+
 ![Screenshot 2025-06-21 at 10 52 56 AM](https://github.com/user-attachments/assets/e51293e0-963c-4f0d-99d9-d302e7775cbd)
 ![Screenshot 2025-06-21 at 10 53 44 AM](https://github.com/user-attachments/assets/6404a3f2-3aee-446e-bcb9-a52e24c2b123)
 ![Screenshot 2025-06-21 at 10 54 14 AM](https://github.com/user-attachments/assets/aae5135b-d69b-43b8-bebf-e48a0bb23158)
