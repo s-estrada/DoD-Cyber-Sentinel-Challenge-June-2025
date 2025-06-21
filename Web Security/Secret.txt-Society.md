@@ -12,14 +12,12 @@ _Description:_ Our team suspects that a Juche Jaguar developer accidentally left
 2. Attempt to Access the Disallowed Directory: I then attempted to access the /juchejaguar/ path directly using the command 'curl https://juche.msoidentity.com/juchejaguar', which resulted in a 301 Moved Permanently response, indicating that the content had been relocated and that curl needed to be instructed to follow the redirect.
 3. Follow the Redirect to Uncover the Flag: To successfully reach the final content, I re-executed the curl command, this time including the -L option to automatically follow redirects: 'curl -L https://juche.msoidentity.com/juchejaguar'. This action successfully retrieved the complete HTML source code of the "Juche Jaguar Secret Lair" page. Upon reviewing the HTML, I located the flag clearly embedded within a div element with the class "Flag" in the <body> section.
 
-<img src="https://github.com/user-attachments/assets/100b00a9-f5a6-4f27-b6be-0e9f0262860b" width="40%" height="40%">
-<img src="https://github.com/user-attachments/assets/f983625c-d938-4532-972b-8531495505e3" width="40%" height="40%">
-<img src="https://github.com/user-attachments/assets/e51293e0-963c-4f0d-99d9-d302e7775cbd" width="25%" height="25%">
-<img src="https://github.com/user-attachments/assets/6404a3f2-3aee-446e-bcb9-a52e24c2b123" width="40%" height="40%">
-<img src="https://github.com/user-attachments/assets/aae5135b-d69b-43b8-bebf-e48a0bb23158" width="40%" height="40%">
-
-
-<img src="https://github.com/user-attachments/assets/8127df43-708d-4236-aa1f-15f1d10a62d2" width="40%" height="40%">
+<img src="https://github.com/user-attachments/assets/100b00a9-f5a6-4f27-b6be-0e9f0262860b" width="45%" height="45%">
+<img src="https://github.com/user-attachments/assets/f983625c-d938-4532-972b-8531495505e3" width="45%" height="45%">
+<img src="https://github.com/user-attachments/assets/e51293e0-963c-4f0d-99d9-d302e7775cbd" width="45%" height="45%">
+<img src="https://github.com/user-attachments/assets/6404a3f2-3aee-446e-bcb9-a52e24c2b123" width="45%" height="45%">
+<img src="https://github.com/user-attachments/assets/aae5135b-d69b-43b8-bebf-e48a0bb23158" width="45%" height="45%">
+<img src="https://github.com/user-attachments/assets/8127df43-708d-4236-aa1f-15f1d10a62d2" width="45%" height="45%">
 
 > **Flag:** C1{r0b0ts_arent_4lways_p0lit3}
 
