@@ -1,9 +1,12 @@
+**Difficulty: Very Easy**
+
 Description: Agents intercepted an audio file named message.mp3. It plays a single tone, but we have intel that a flag might be tucked away in the metadata fields of the file. Can you inspect the file and uncover the flag?
 
-
-Method: We analyzed an MP3 file suspected of containing hidden data. Using ExifTool, we discovered a flag
-embedded in the file's metadata, specifically in one of the ID3 tag fields. This showed how forensic
-data can often be concealed in plain sight through file attributes.
+# Completion Steps
+1. Download the file.
+2. Download a file analyzer. I'm using [Exiftool](https://exiftool.org/), a quick and easy-to-use command-line tool for reading file metadata.
+3. Go to your terminal and run this command: `exiftool message.mp3` (or the equivalent command for your file analyzer).
+   - Tip: To find the flag faster, use `grep` to search the results for the flag. `exiftool message.mp3 | grep C1{` would run the results of the first command through the second and output only the flag.
 
 Flag: C1{metadata_tells_more}
 
