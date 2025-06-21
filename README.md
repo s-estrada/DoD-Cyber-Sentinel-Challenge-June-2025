@@ -11,9 +11,9 @@ This challenge was remarkably well-orchestrated, with engaging scenarios and a f
 This competition was an exceptional "pressure test" of my skills across web security, encryption analysis, threat hunting, and memory dump analysis. It provided a direct, hands-on opportunity to apply theoretical knowledge to real-world scenarios, perfectly mirroring the types of challenges faced by the DoD. I am incredibly grateful for the opportunity to have been selected for this amazing challenge by Correlation One and the U.S. Department of Defense. It wasn't just about the competition; it was about connecting with sharp minds in the field and exploring exciting career pathways in national-level missions. I'm already buzzing with excitement to continue learning and eagerly anticipate the next challenge!
 
 ## Web Security Challenges
-| Title | Difficulty | Author |
-| :---: | :---: | :---: |
-| [Secret.txt Society](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Secret.txt-Society.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
+| Title | Difficulty | Tools Used | Author |
+| :---: | :---: | :---: | :---: |
+| [Secret.txt Society](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Secret.txt-Society.md) | Very Easy | cURL, Gobuster | [s-estrada](https://github.com/s-estrada)
 | [Field Reports Mayhem](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
 | [None Shall Pass](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/None-Shall-Pass.md) | Medium | [s-estrada](https://github.com/s-estrada)
 | [Great Juche Jaguar GraphQL Heist](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Great-Juche-Jaguar-GraphQL-Heist.md) | Hard | [s-estrada](https://github.com/s-estrada)
@@ -26,8 +26,8 @@ This competition was an exceptional "pressure test" of my skills across web secu
 ## Forensics Challenges
 | Title | Difficulty | Author |
 | :---: | :---: | :---: |
-| [Behind the Beat](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
-| [Hidden in Plain Sight](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Hidden-in-Plain-Sight.md) | Very Easy | [s-estrada](https://github.com/s-estrada)
+| [Behind the Beat](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Very Easy | ExifTool | [s-estrada](https://github.com/s-estrada)
+| [Hidden in Plain Sight](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Hidden-in-Plain-Sight.md) | Very Easy | ExifTool | [s-estrada](https://github.com/s-estrada)
 | [Listening Post](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Listening-Post.md) | Easy | [s-estrada](https://github.com/s-estrada)
 | [Remote Help](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Remote-Help.md) | Medium | [s-estrada](https://github.com/s-estrada)
 | [Decryption Conniption](https://github.com/s-estrada/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Decryption-Conniption.md) | Hard | [s-estrada](https://github.com/s-estrada)
