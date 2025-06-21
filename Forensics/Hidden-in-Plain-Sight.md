@@ -4,6 +4,8 @@ Description: Analysts recovered a suspicious image from a threat actor’s socia
 
 ![Screenshot 2025-06-21 at 10 34 50 AM](https://github.com/user-attachments/assets/49cf17ff-de03-4e00-8889-0dd4986d1b27)
 
+<img src="https://github.com/user-attachments/assets/49cf17ff-de03-4e00-8889-0dd4986d1b27" width="50%" height="50%">
+
 # Methodology
 1. Download the provided image.
 2. Download a file analyzer. I'm using [Exiftool](https://exiftool.org/), a quick and easy-to-use command-line tool for reading file metadata.
