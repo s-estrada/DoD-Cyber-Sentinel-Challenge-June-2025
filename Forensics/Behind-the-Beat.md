@@ -10,4 +10,4 @@ Description: Agents intercepted an audio file named message.mp3. It plays a sing
 
 > **Flag:** C1{metadata_tells_more}
 
-![Screenshot 2025-06-21 at 10 16 15 AM](https://github.com/user-attachments/assets/fc00e6be-2aeb-4aa4-9612-a30b86177875)
+<img src="https://github.com/user-attachments/assets/fc00e6be-2aeb-4aa4-9612-a30b86177875" width="50%" height="50%">
