@@ -1,6 +1,6 @@
 **Difficulty: Very Easy**
 
-Description: Analysts recovered a suspicious image from a threat actor’s social media account. At first glance, it looks like an innocent selfie - but insider reports suggest that a flag might be hiding in the image metadata. Can you extract it?
+_Description:_ Analysts recovered a suspicious image from a threat actor’s social media account. At first glance, it looks like an innocent selfie - but insider reports suggest that a flag might be hiding in the image metadata. Can you extract it?
 
 <img src="https://github.com/user-attachments/assets/49cf17ff-de03-4e00-8889-0dd4986d1b27" width="25%" height="25%">
 
