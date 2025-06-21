@@ -17,6 +17,8 @@ _Description:_ Our team suspects that a Juche Jaguar developer accidentally left
 <img src="https://github.com/user-attachments/assets/e51293e0-963c-4f0d-99d9-d302e7775cbd" width="40%" height="40%">
 <img src="https://github.com/user-attachments/assets/6404a3f2-3aee-446e-bcb9-a52e24c2b123" width="40%" height="40%">
 <img src="https://github.com/user-attachments/assets/aae5135b-d69b-43b8-bebf-e48a0bb23158" width="40%" height="40%">
+
+
 <img src="https://github.com/user-attachments/assets/8127df43-708d-4236-aa1f-15f1d10a62d2" width="40%" height="40%">
 
 > **Flag:** C1{r0b0ts_arent_4lways_p0lit3}
