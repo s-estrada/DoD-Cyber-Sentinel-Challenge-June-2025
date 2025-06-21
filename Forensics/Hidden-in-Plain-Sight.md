@@ -11,3 +11,5 @@ Description: Analysts recovered a suspicious image from a threat actor’s socia
    - Tip: To find the flag faster, use grep to search the results for the flag. `exiftool image.png | grep C1{` would run the results of the first command through the second and output only the flag.
    
 > **Flag:** C1{smile_youre_flagged}
+
+<img src="https://github.com/user-attachments/assets/a6a0b937-41a4-4f8d-88f3-d83e21b970cd" width="50%" height="50%">
