@@ -3,8 +3,9 @@
 _Description:_ Our team suspects that a Juche Jaguar developer accidentally left something interesting behind on a public site: https://juche.msoidentity.com. You’ve been tasked with examining its structure. Can you uncover what the bots were told to ignore? Start with the usual entry points a crawler might explore. One disallowed path leads to a page where someone left behind more than just code.
 
 # Tools Used
-curl: A command-line tool used for transferring data with URLs, essential for fetching web content and inspecting page sources.
-Gobuster: A command-line tool designed for brute-forcing to discover hidden directories, files, and other resources on web servers and websites, as well as DNS subdomains and virtual hosts. 
+**curl:** A command-line tool used for transferring data with URLs, essential for fetching web content and inspecting page sources.
+
+**Gobuster:** A command-line tool designed for brute-forcing to discover hidden directories, files, and other resources on web servers and websites, as well as DNS subdomains and virtual hosts. 
 
 # Methodology
 1. Examine robots.txt for Disallowed Paths: My first step was to check the robots.txt file, a common initial point for web crawlers, for any hidden directories. I used the command 'curl https://juche.msoidentity.com/robots.txt' to retrieve its contents. The output revealed a Disallow: /juchejaguar/ entry.
