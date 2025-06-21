@@ -10,4 +10,4 @@ Description: Analysts recovered a suspicious image from a threat actor’s socia
 3. Go to your terminal and run this command: `exiftool image.png` (or the equivalent command for your file analyzer). You should see the flag in the metadata under Comment.
    - Tip: To find the flag faster, use grep to search the results for the flag. `exiftool image.png | grep C1{` would run the results of the first command through the second and output only the flag.
    
-**Flag:** C1{smile_youre_flagged}
+> **Flag:** C1{smile_youre_flagged}
